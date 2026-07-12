@@ -1,11 +1,14 @@
-
+## Screenshot
+<p align="center">
+  <img src="/images/1.png" width="900" alt="PB Employee Directory App Screenshot">
+ -->
+</p>
 
 
 
 
 # Mobile PB Employee Directory App
-This is a code bundle for Mobile PB Employee Directory App. The original project is available at https://www.figma.com/design/OXh0uF1MhHEtcF5lvw4xSh/Mobile-Telephone-Directory-App.
-
+This is a code bundle for Mobile PB Employee Directory App. 
 ## Running the code
 
 Run `npm i` to install the dependencies.
