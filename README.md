@@ -2,8 +2,11 @@
 
 A secure employee directory application built with **React**, **Ionic React**, and **Capacitor** for Prasar Bharati employees. The application provides OTP-based authentication, employee contact search, favorites management, and offline support with a modern, responsive user interface.
 
-[https://vercel.com/theindiedeveloper/pb-employee-directory-app](https://pb-employee-directory-app.vercel.app/)
----
+https://pb-employee-directory-app.vercel.app/
+test email:user@gov.in
+pw:123456
+
+-----
 
 ## 📱 Features
 
