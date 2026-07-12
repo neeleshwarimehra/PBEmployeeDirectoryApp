@@ -1,0 +1,9 @@
+{
+  "appId": "com.prasarbharati.employeedirectory",
+  "appName": "PBTelephoneDirectory",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}
+  // "appName": "Employee Directory",

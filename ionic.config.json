@@ -1,0 +1,7 @@
+{
+  "name": "PB Employee Directory",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

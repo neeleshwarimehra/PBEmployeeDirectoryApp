@@ -1,0 +1,7 @@
+import { registerPlugin } from "./@capacitor_core.js";
+//#region node_modules/@capacitor/network/dist/esm/index.js
+var Network = registerPlugin("Network", { web: () => import("./web-C5aEL-jx.js").then((m) => new m.NetworkWeb()) });
+//#endregion
+export { Network };
+
+//# sourceMappingURL=@capacitor_network.js.map
