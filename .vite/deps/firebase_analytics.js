@@ -1,0 +1,2 @@
+import { a as logEvent, c as setCurrentScreen, d as setUserProperties, f as settings, i as isSupported, l as setDefaultEventParameters, n as getGoogleAnalyticsClientId, o as setAnalyticsCollectionEnabled, r as initializeAnalytics, s as setConsent, t as getAnalytics, u as setUserId } from "./index.esm-BV6S3lGZ.js";
+export { getAnalytics, getGoogleAnalyticsClientId, initializeAnalytics, isSupported, logEvent, setAnalyticsCollectionEnabled, setConsent, setCurrentScreen, setDefaultEventParameters, setUserId, setUserProperties, settings };

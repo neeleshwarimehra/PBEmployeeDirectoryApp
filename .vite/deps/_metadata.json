@@ -1,8 +1,208 @@
 {
-  "hash": "71c27037",
+  "hash": "0ce330ff",
   "configHash": "cb8411be",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "327622f6",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "b2db81a9",
+  "browserHash": "d2941389",
+  "optimized": {
+    "@capacitor-community/speech-recognition": {
+      "src": "../../node_modules/@capacitor-community/speech-recognition/dist/esm/index.js",
+      "file": "@capacitor-community_speech-recognition.js",
+      "fileHash": "408da56f",
+      "needsInterop": false
+    },
+    "@capacitor-firebase/analytics": {
+      "src": "../../node_modules/@capacitor-firebase/analytics/dist/esm/index.js",
+      "file": "@capacitor-firebase_analytics.js",
+      "fileHash": "296a3f1a",
+      "needsInterop": false
+    },
+    "@capacitor-firebase/crashlytics": {
+      "src": "../../node_modules/@capacitor-firebase/crashlytics/dist/esm/index.js",
+      "file": "@capacitor-firebase_crashlytics.js",
+      "fileHash": "e873fdfd",
+      "needsInterop": false
+    },
+    "@capacitor/app": {
+      "src": "../../node_modules/@capacitor/app/dist/esm/index.js",
+      "file": "@capacitor_app.js",
+      "fileHash": "6f7fb4d5",
+      "needsInterop": false
+    },
+    "@capacitor/core": {
+      "src": "../../node_modules/@capacitor/core/dist/index.js",
+      "file": "@capacitor_core.js",
+      "fileHash": "3b2a810f",
+      "needsInterop": false
+    },
+    "@capacitor/network": {
+      "src": "../../node_modules/@capacitor/network/dist/esm/index.js",
+      "file": "@capacitor_network.js",
+      "fileHash": "ad24b7f8",
+      "needsInterop": false
+    },
+    "@capacitor/preferences": {
+      "src": "../../node_modules/@capacitor/preferences/dist/esm/index.js",
+      "file": "@capacitor_preferences.js",
+      "fileHash": "94323c24",
+      "needsInterop": false
+    },
+    "@capacitor/share": {
+      "src": "../../node_modules/@capacitor/share/dist/esm/index.js",
+      "file": "@capacitor_share.js",
+      "fileHash": "c8a2d866",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "249458a3",
+      "needsInterop": false
+    },
+    "capacitor-native-settings": {
+      "src": "../../node_modules/capacitor-native-settings/dist/esm/index.js",
+      "file": "capacitor-native-settings.js",
+      "fileHash": "b9192872",
+      "needsInterop": false
+    },
+    "firebase/analytics": {
+      "src": "../../node_modules/firebase/analytics/dist/esm/index.esm.js",
+      "file": "firebase_analytics.js",
+      "fileHash": "8eab5dcb",
+      "needsInterop": false
+    },
+    "firebase/app": {
+      "src": "../../node_modules/firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "503131ae",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "84185cc0",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "8ca23aec",
+      "needsInterop": false
+    },
+    "motion/react": {
+      "src": "../../node_modules/motion/dist/es/react.mjs",
+      "file": "motion_react.js",
+      "fileHash": "120b81df",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "9a64fc14",
+      "needsInterop": true
+    },
+    "react-loader-spinner": {
+      "src": "../../node_modules/react-loader-spinner/dist/index.mjs",
+      "file": "react-loader-spinner.js",
+      "fileHash": "73fc0fa4",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "59deb728",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "2a3cb718",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "05e82ee8",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "c124f1cf",
+      "needsInterop": true
+    },
+    "sonner": {
+      "src": "../../node_modules/sonner/dist/index.mjs",
+      "file": "sonner.js",
+      "fileHash": "e5a69fa9",
+      "needsInterop": false
+    },
+    "zustand": {
+      "src": "../../node_modules/zustand/esm/index.mjs",
+      "file": "zustand.js",
+      "fileHash": "af9f3486",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-_TIqcEvS": {
+      "file": "chunk-_TIqcEvS.js",
+      "isDynamicEntry": false
+    },
+    "development-OQAA2luH": {
+      "file": "development-OQAA2luH.js",
+      "isDynamicEntry": false
+    },
+    "es-DqrEHr2-": {
+      "file": "es-DqrEHr2-.js",
+      "isDynamicEntry": false
+    },
+    "index.esm-B95-bPWc": {
+      "file": "index.esm-B95-bPWc.js",
+      "isDynamicEntry": false
+    },
+    "index.esm-BV6S3lGZ": {
+      "file": "index.esm-BV6S3lGZ.js",
+      "isDynamicEntry": false
+    },
+    "jsx-runtime-D0A7uqsa": {
+      "file": "jsx-runtime-D0A7uqsa.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-Dr7h9AAs": {
+      "file": "react-dom-Dr7h9AAs.js",
+      "isDynamicEntry": false
+    },
+    "web-8YuiPUEH": {
+      "file": "web-8YuiPUEH.js",
+      "isDynamicEntry": true
+    },
+    "web-B9A4fojl": {
+      "file": "web-B9A4fojl.js",
+      "isDynamicEntry": true
+    },
+    "web-BnwMLC-i": {
+      "file": "web-BnwMLC-i.js",
+      "isDynamicEntry": true
+    },
+    "web-C5aEL-jx": {
+      "file": "web-C5aEL-jx.js",
+      "isDynamicEntry": true
+    },
+    "web-CFK_q7Re": {
+      "file": "web-CFK_q7Re.js",
+      "isDynamicEntry": true
+    },
+    "web-CM5SqG4W": {
+      "file": "web-CM5SqG4W.js",
+      "isDynamicEntry": true
+    },
+    "web-CX_T3qfN": {
+      "file": "web-CX_T3qfN.js",
+      "isDynamicEntry": true
+    },
+    "web-aIGiui9i": {
+      "file": "web-aIGiui9i.js",
+      "isDynamicEntry": true
+    }
+  }
 }
